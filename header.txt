@@ -1,0 +1,11 @@
+/**********************************************
+Workshop # 
+Course:APD545NAA - Semester 4
+Last Name: XXXXXXXXXXX
+First Name: XXXXXXXXXXX
+ID: XXXXXXXX
+Section: XXXXXXXXX
+This assignment represents my own work in accordance with Seneca Academic Policy.
+Signature XXXXXXXXXXX XXXXXXXXXXX
+Date: Jan 17, 2025
+**********************************************/

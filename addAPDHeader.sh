@@ -15,7 +15,7 @@
 
 # Warnings
 # - test the script on an another directory with your dummy files before running it on your workshop
-# - by using the script you agree that I hold no responsibiliy over any potential damage caused to your side
+# - by using the script you agree that I hold no responsibiliy over any damage caused to your side
 
 # Finally, feel free to add your contributions or suggestions under Issues
 
